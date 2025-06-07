@@ -23,10 +23,10 @@ The project focuses on replicating Amazon’s visual layout and structure withou
 ## 📸 Assets
 
 ### top view 
-![Assets top1](images/homepage.png)  
+![Assets top1](assets/top1.png)  
 
 ##bottem view
-![Assets bottom1](images/products.png)
+![Assets bottom1](assets/bottom1.png)
 
 ---
 
